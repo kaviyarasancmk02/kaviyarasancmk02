@@ -1,38 +1,26 @@
-# sv
+# Hi, I'm Kaviyarasan! 👋
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Welcome to my GitHub profile! I'm a passionate developer with hands-on experience in front-end and low-code development. I have a Master's degree in Computer Science from Periyar University, Salem, and I have completed internships at Sharp Abacus and Genpact, where I worked on various exciting projects.
 
-## Creating a project
+## 🌟 Skills
+- **Front-End Development**: HTML, CSS, JavaScript, Tailwind CSS, Svelte
+- **Low-Code Development**: Power Apps, Power Automate, Power Virtual Agent
+- **Tools**: Git & GitHub, Microsoft Office (Word, Excel, PowerPoint)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## 🚀 Projects
+### Front-End Development
+- **[Career Subway](https://github.com/kaviyarasancmk02/studypathhub)**: Developed the front end using Svelte.
 
-```bash
-# create a new project in the current directory
-npx sv create
+### Low-Code Development
+During my internship at Genpact, I worked on several projects using low-code platforms:
+- **Knowledge Management Chatbot**: Built using Power Virtual Agent.
+- **Automated Document Processing**: Utilized AI Builder for automation.
+- **Daily Planner Application**: Created with Power Apps.
+- **AP Helpdesk Application**: Developed an application that automatically replies to emails with requested details.
 
-# create a new project in my-app
-npx sv create my-app
-```
+## 📫 Get in Touch
+- **Email**: [cmkkaviyarasanmm@gmail.com](mailto:cmkkaviyarasanmm@gmail.com)
+- **LinkedIn**: [linkedin.com/in/kaviyarasancmk02](https://linkedin.com/in/kaviyarasancmk02)
+- **GitHub**: [github.com/kaviyarasancmk02](https://github.com/kaviyarasancmk02)
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects!
